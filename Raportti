@@ -1,0 +1,3 @@
+tehtävänä on suunnitella ja toteuttaa web-pohjainen keskustelupalsta. Keskustelupalstan tulee tarjota ominaisuudet
+keskustelualueiden luomiseen, keskustelunavausten lähettämiseen keskustelualueelle, sekä tietysti viesteihin vastaamiseen.
+Viestien lähettäjät tulee pystyä tunnistamaan esimerkiksi viestiä kirjoitettaessa annettavan nimimerkin avulla. 
